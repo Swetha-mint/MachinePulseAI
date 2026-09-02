@@ -65,6 +65,8 @@ ANOMALY DETECTION
 HEALTH & RISK ASSESSMENT
       ↓
 ALERT / DASHBOARD
+      ↓
+MAINTENANCE DECISION
 📡 Multimodal Monitoring
 
 Different sensors provide different views of machine behaviour.
@@ -225,6 +227,10 @@ MachinePulseAI/
 ├── datasets/
 ├── results/
 └── presentation/
-      ↓
+⚠️ Disclaimer
+
+MachinePulse AI is currently a prototype-stage project.
+
+The system's final sensing configuration, AI/ML model, prediction performance and industrial applicability will depend on further development, testing and validation.
 
 MAINTENANCE DECISION
